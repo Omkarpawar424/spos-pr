@@ -1,0 +1,7 @@
+MACRO
+INCR &A, &B
+ADD &A, &B
+MEND
+START
+INCR A, B
+END
